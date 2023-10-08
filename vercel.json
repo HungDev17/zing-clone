@@ -1,5 +1,5 @@
 {
-  "rewrites1": [
+  "rewrites": [
     {
       "soucre": "/(.*)",
       "destination": "/"
